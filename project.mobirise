@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beat 100 Publishing site 1-clone",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 61,
     "versionPublish": "4.5.2",
@@ -793,7 +793,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://beat100.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Beat100publishing.com</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beat100publishing.com</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
         },
@@ -984,7 +984,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://beat100.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Beat100publishing.com</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beat100publishing.com</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-11"
         },
@@ -1145,7 +1145,7 @@
               "background": "#2c2c2c"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#41a85f"
             },
             ".mbr-brand__name a": {
               "font-family": "'Roboto', sans-serif",
@@ -1170,7 +1170,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://beat100.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Beat100publishing.com</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beat100publishing.com</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-16"
         },
@@ -1197,7 +1197,7 @@
           },
           "title": "fghfdsghfhfshf",
           "text": "sfghshshs",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1426,7 +1426,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://beat100.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Beat100publishing.com</a>",
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Beat100publishing.com</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m"
         },
