@@ -649,6 +649,9 @@ padding-bottom: (@paddingBottom * 15px);
 }
 
 #header1-1k {
+H1 {
+  text-align: center;
+}
 }
 
 @isPublish: true;
