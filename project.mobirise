@@ -3,7 +3,7 @@
     "name": "Beat 100 Publishing site 1-clone",
     "currentPage": "page1.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -927,7 +927,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Web Creator Description",
+        "meta_descr": "We Develop Page\n",
         "title": "Development Deals Info Page",
         "order": 3
       },
@@ -1113,7 +1113,7 @@
     },
     "page4.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
+        "meta_descr": "About Beat 100 Publishing",
         "title": "About Beat100 Publishing",
         "order": 1
       },
