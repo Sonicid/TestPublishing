@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beat 100 Publishing site 1-clone",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 61,
     "versionPublish": "4.5.2",
@@ -1252,7 +1252,7 @@
           },
           "title1": "MEMBERS ONLY",
           "caption1": "100's of Track Opportunities<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
@@ -1274,7 +1274,7 @@
           },
           "title2": "ALL GENRES",
           "caption2": "We accept music from across the Globe. <br>Whatever the Genre!",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "src": "images/google-fonts.png",
@@ -1296,7 +1296,7 @@
           },
           "title3": "WEB FONTS",
           "caption3": "We accept music from across the Globe. <br>Whatever the Genre!",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "src": "images/unlimited-websites.png",
@@ -1318,7 +1318,7 @@
           },
           "title4": "UNLIMITED WEBSITES",
           "caption4": "We accept music from across the Globe. <br>Whatever the Genre!",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
