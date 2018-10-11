@@ -1202,7 +1202,15 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1f"
+          "_anchor": "header1-1f",
+          "_styles": {
+            "H1": {
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_params": {
