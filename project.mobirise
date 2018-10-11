@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beat 100 Publishing site 1-clone",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 61,
     "versionPublish": "4.5.2",
@@ -1453,7 +1453,7 @@
           },
           "title": "FAQ's",
           "text": "<i>What does it cost?</i><br>dfgadgdsdadahadadgadadgadbadad<br><br><i>Why do you charge fees for uploading?</i><br>sdfdfgdgdfgdfgsdfghfghfsgfsghhfh<br><br><i>What is Library Music?</i><br>vcxgheagjvjhgksjrhlghmfhhmffjghjdgdj<br><br><i>When will I be paid my Royalties?</i><br>Every Quarter.<br><br><br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
