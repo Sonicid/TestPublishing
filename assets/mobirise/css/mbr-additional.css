@@ -555,15 +555,6 @@ padding-bottom: (@paddingBottom * 15px);
 }
 }
 
-#pricing-table1-n {
-H3 {
-  color: #faaf40;
-}
-SPAN {
-  color: #ffffff;
-}
-}
-
 @isPublish: true;
 
 #ext_menu-v {
