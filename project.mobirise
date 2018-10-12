@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "Beat 100 Publishing site 1-clone",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 61,
+    "uniqCompNum": 67,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -446,7 +446,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#41a85f"
+            "hamburgerColor": "#c1c1c1"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">JOIN/LOGIN</a></li>",
           "_tags": [
@@ -463,7 +463,7 @@
               "background": "#2c2c2c"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#41a85f"
+              "color": "#c1c1c1"
             },
             ".mbr-brand__name a": {
               "font-family": "'Roboto', sans-serif",
@@ -535,7 +535,7 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -551,7 +551,7 @@
                 "title": "&nbsp;<br>BEAT100 MUSIC Library",
                 "contentAlign": "left",
                 "text": "Beat100 is the first of a new breed of Library Publisher.<br>Our artists music is used across the World in Top Productions.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Compose</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Develop</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Compose</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Develop</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
@@ -562,7 +562,7 @@
                 "title": "Beat 100 Publishing<br>",
                 "contentAlign": "center",
                 "text": "We look through the trees<br>From Acorns we Grow",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Development Deals</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Submit Tracks</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
@@ -614,7 +614,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -640,6 +640,71 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-k"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-09-at-17.20.08-1669x939.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#d14841",
+            "overlayOpacity": 0.5
+          },
+          "title": "Make Music...Make Royalties&nbsp;",
+          "text": "Your Music, Your Profile, Your Legacy.<br>You Write it....We Publish it...Simple!",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "H1": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header1-1s"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2018-04-09-at-17.20.08-1669x939.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#faaf40",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Composer Development",
+          "text": "We are here to help you develop your Musical skills and ambitions. When you join, you join an experienced team of Composers and A&amp;R professionals who are used in major films, TV programs and Broadcast productions. They know the tracks that work and will guide you all the way.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1t"
         },
         {
           "_name": "footer1",
@@ -731,6 +796,36 @@
             "overlayOpacity": 0.8
           },
           "_anchor": "footer1-g"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beat-publishing-page-black-2000x1125.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#475577",
+            "overlayOpacity": 0.5
+          },
+          "title": "What is Library Music?",
+          "text": "Library music, also known as ‘production music’, is created mainly for Broadcast professionals producing Films, TV programmes, movie promo trailers and commercial TV and Radio advertising. It’s not written to specific visuals but, as Genre based album concepts, and distributed around the world. You can grow substantial royalty income streams from your tracks.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1u"
         }
       ]
     },
@@ -751,7 +846,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#41a85f"
+            "hamburgerColor": "#c1c1c1"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">JOIN/LOGIN</a></li>",
           "_tags": [
@@ -942,7 +1037,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#41a85f"
+            "hamburgerColor": "#c1c1c1"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">JOIN/LOGIN</a></li>",
           "_tags": [
@@ -1128,7 +1223,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#41a85f"
+            "hamburgerColor": "#c1c1c1"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">JOIN/LOGIN</a></li>",
           "_tags": [
@@ -1197,7 +1292,7 @@
           },
           "title": "Beat 100 Publishing",
           "text": "Beat100 Publishing is a library of Music produced by our members for the exclusive use in Broadcast productions. It is not commercialy released as artist tracks. It is built soley for the purpose of creating music that is Genre based to represent the visual elements that Advertisers, Brands, Production companies and program makers can use. As a composer member your music will be promoted and exclusively marketed for sync and program inclusion.&nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">Try It Out</a>",
           "_tags": [
             "Theme"
           ],
@@ -1392,7 +1487,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#41a85f"
+            "hamburgerColor": "#c1c1c1"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"http://beatpub.lewissmithweb.com/dashboard#/\" data-toolbar=\"-mbrBtnMove\">JOIN/LOGIN</a></li>",
           "_tags": [

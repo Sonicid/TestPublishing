@@ -411,7 +411,7 @@ nav.opened .hamburger span {
   background: #2c2c2c;
 }
 .mbr-navbar__hamburger {
-  color: #41a85f;
+  color: #c1c1c1;
 }
 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
@@ -480,6 +480,15 @@ H1 {
 .mbr-article P {
   color: #ffffff;
 }
+}
+
+#header1-1s {
+H1 {
+  text-align: center;
+}
+}
+
+#header1-1t {
 }
 
 #footer1-g {
@@ -553,6 +562,9 @@ padding-bottom: (@paddingBottom * 15px);
     }
   }
 }
+}
+
+#header1-1u {
 }
 
 @isPublish: true;
